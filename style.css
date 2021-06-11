@@ -249,15 +249,18 @@ a:hover {
 }
 p.text-img{
     font-size: 2rem;
+    color: #575757!important;
 }
 h3.mg-md.text-center{
     font-size: large;
 }
 p.text-center{
     font-size: 1.8rem;
+    color: #575757!important;
 }
 p.text-center.contrast{
     font-size: 1.8rem;
+    color: #000!important;
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -657,11 +660,9 @@ h6,
 p,
 label,
 .btn,
-a {
+{
     font-family: "helvetica";
     font-weight: 400;
-    color:#575757 !important;
-    
 } 
 
 .container {

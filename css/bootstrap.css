@@ -1641,7 +1641,7 @@ p {
 }
 a.cta-hero{
     background:rgb(37, 37, 37);
-    color: #f3976c;
+    color: whitesmoke;
 }
 .col-sm-12.text-center{
     border: transparent;
@@ -2117,6 +2117,7 @@ pre code {
 .citation-text{
     font-size: 2rem;
     font-style: italic;
+    color: #575757!important;
 }
 .citation-auteur{
     font-size: 1.5rem;
