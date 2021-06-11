@@ -659,7 +659,7 @@ h5,
 h6,
 p,
 label,
-.btn,
+.btn
 {
     font-family: "helvetica";
     font-weight: 400;
@@ -713,7 +713,10 @@ p {
     font-size: 16px;
     font-weight: 700;
 }
-
+a.cta-hero{
+    background:rgb(37, 37, 37);
+    color: whitesmoke;
+}
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
